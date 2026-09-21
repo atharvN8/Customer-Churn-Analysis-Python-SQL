@@ -10,7 +10,7 @@
 
 An end-to-end exploratory analysis of subscription customer churn. The project pulls data from a SQLite database, cleans and joins three tables, engineers churn-related features, calculates key business KPIs, and visualizes what drives customers to leave.
 
-Everything lives in one notebook: [`Churn_analysis.ipynb`](Churn analysis.ipynb). GitHub renders it directly, charts included.
+Everything lives in one notebook: [`Churn_analysis.ipynb`](Churn_analysis.ipynb). GitHub renders it directly, charts included.
 
 <p align="center">
   <img src="images/churn_by_plan.png" alt="Churn rate by plan type" width="45%">
