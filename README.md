@@ -29,9 +29,7 @@ Everything lives in one notebook: [`Churn_analysis.ipynb`](Churn_analysis.ipynb)
 - [Key Insights](#key-insights)
 - [Visualizations](#visualizations)
 - [Project Structure](#project-structure)
-- [Getting Started](#getting-started)
-- [Known Limitations](#known-limitations)
-- [Future Improvements](#future-improvements)
+- [Feedback](#Feedback)
 
 ---
 
